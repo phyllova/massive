@@ -80,6 +80,17 @@
   font-size: 12px;
   background-color: whitesmoke;
 }
+#twp {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 80%;
+  display: none;
+}
+#twp input{
+  font-size: 12px;
+  background-color: whitesmoke;
+}
 #vote2 {
   background-color: rgb(6, 5, 6);
   color: white;
